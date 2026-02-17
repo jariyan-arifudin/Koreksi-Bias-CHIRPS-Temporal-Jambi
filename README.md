@@ -90,9 +90,9 @@ Metode ini sangat efektif untuk menangkap bias yang bersifat musiman (misal: CHI
 
 Universitas Gadjah Mada (UGM)
 
-## 📄 Lisensi & Sitasi
+## Lisensi & Sitasi
 
 Kode ini didistribusikan di bawah **MIT License**.
 Jika Anda menggunakan metode ini untuk penelitian, silakan sitasi repositori ini:
 
-> Arifudin, J. (2026). *Koreksi Bias CHIRPS Menggunakan Pendekatan Seasonal Scaling*. GitHub Repository.
+> Arifudin, J. (2026). *Koreksi Bias Data CHIRPS: Metode Seasonal Scaling (Temporal Analysis)*. GitHub Repository.
